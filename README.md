@@ -1,6 +1,9 @@
 # gamification_app
 
-A new Flutter project.
+Game Quiz Flutter project.
+
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/38fde51e-3c05-4247-aec0-3ba58da17878" />
+
 
 ## Getting Started
 
